@@ -11,9 +11,9 @@
 
 [合约文件: WhitelistCrowdsale.sol](../../contracts/Crowdsale/WhitelistCrowdsale.sol)
 
-[测试脚本: WhitelistCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/test/Crowdsale/WhitelistCrowdsale.js)
+[测试脚本: WhitelistCrowdsale.js](../..//test/Crowdsale/WhitelistCrowdsale.js)
 
-[布署脚本: 15_deploy_WhitelistCrowdsale.js](https://github.com/Fankouzu/MintCoin/blob/master/migrations/15_deploy_WhitelistCrowdsale.js)
+[布署脚本: 15_deploy_WhitelistCrowdsale.js](../../migrations/15_deploy_WhitelistCrowdsale.js)
 
 ### 在布署合约时定义以下变量
 ```javascript
