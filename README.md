@@ -30,7 +30,7 @@
 - [ERC777代币](./README/ERC777/ERC777Contract.md)
 
 ### 发行ERC721代币
-- [全功能ERC721代币](./README/ERC721/ERC721Full.md)
+- [全功能ERC721代币](./README/ERC721/ERC20Full.md)
 - [可销毁的ERC721代币](./README/Crowdsale/ERC721Burnable.md)
 - [可铸造ERC721代币](./README/Crowdsale/ERC721Mintable.md)
 - [可暂停的ERC721代币](./README/Crowdsale/ERC721Pausable.md)
